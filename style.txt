@@ -1,0 +1,20 @@
+*background: #222222
+*font: Arial 12
+*foreground: white
+
+*Labelframe*font: Arial 14 bold
+*Label*font: Arial 12
+*Entry*font: Arial 12
+
+*Text*font: Courier 14
+*Text*background: #CCCCCC
+*Text*foreground: #000000
+
+*Button*background: #00A0C0
+
+*Entry*background: #FFFFFF
+*Entry*foreground: #000000
+
+*Listbox*background: #CCCCCC
+*Listbox*foreground: #000000
+*Listbox*font: Courier 14
